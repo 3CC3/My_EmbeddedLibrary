@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="My_FlyBack" targetName="My_FlyBack.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba2e2f59-f732-45d5-9f7d-6179aab7e05a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../A_My_PureTemplate/.idea/Temperature_Trolley.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Brushless_Electric_Motor/.idea/My_Freertos_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Free_Rtos_1/.idea/Free_Rtos_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Clion2Mx/.idea/My_Clion2Mx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/.idea/My_FlyBack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Inc/retarget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Src/retarget.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack_Freertos/.idea/My_FlyBack_Freertos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Freertos_Template/.idea/My_Freertos_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_RC522/.idea/My_Freertos_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Step_Motor/.idea/My_Freertos_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Temperature_Trolley.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Temperature_Trolley - UART/.idea/Temperature_Trolley.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-437094a5d9fac32dd011.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-06T09-48-39-0236.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/target-Clion2Mx_1.elf-Debug-e2d095adeb67c80f3030.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2VVtX5p1pRHRLUGBVuc3Ov4chFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86159/CLionProjects/Temperature_Trolley - Change&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CLionExternalConfigurable&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.My_FlyBack.elf">
+    <configuration name="未命名" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_FlyBack.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack" TARGET_NAME="My_FlyBack.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="My_FlyBack" RUN_TARGET_NAME="My_FlyBack.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_FlyBack.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack" TARGET_NAME="My_FlyBack.elf" version="1" RUN_PATH="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.未命名" />
+      <item itemvalue="CMake 应用程序.My_FlyBack.elf" />
+      <item itemvalue="OpenOCD 下载并运行.My_FlyBack.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ba2e2f59-f732-45d5-9f7d-6179aab7e05a" name="更改" comment="" />
+      <created>1694933112619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694933112619</updated>
+      <workItem from="1694933146757" duration="10887000" />
+      <workItem from="1694946480239" duration="1475000" />
+      <workItem from="1695018862215" duration="83000" />
+      <workItem from="1695018955869" duration="42000" />
+      <workItem from="1695019011943" duration="2742000" />
+      <workItem from="1695023848454" duration="40000" />
+      <workItem from="1695023898683" duration="868000" />
+      <workItem from="1695051438331" duration="1306000" />
+      <workItem from="1695104586766" duration="2478000" />
+      <workItem from="1695109920775" duration="8333000" />
+      <workItem from="1695198964806" duration="648000" />
+      <workItem from="1695202056526" duration="1392000" />
+      <workItem from="1695210309634" duration="1076000" />
+      <workItem from="1695384698640" duration="3450000" />
+      <workItem from="1695541960245" duration="2089000" />
+      <workItem from="1695625538249" duration="197000" />
+      <workItem from="1695722140626" duration="13000" />
+      <workItem from="1695722518531" duration="94000" />
+      <workItem from="1695791991140" duration="3253000" />
+      <workItem from="1695813533593" duration="10507000" />
+      <workItem from="1695962025369" duration="599000" />
+      <workItem from="1696037296375" duration="116000" />
+      <workItem from="1696037483351" duration="17867000" />
+      <workItem from="1696126901012" duration="1000" />
+      <workItem from="1696473882111" duration="1419000" />
+      <workItem from="1696508927385" duration="1258000" />
+      <workItem from="1696561667355" duration="12496000" />
+      <workItem from="1696765753053" duration="4111000" />
+      <workItem from="1696855775435" duration="2185000" />
+      <workItem from="1696948767887" duration="1731000" />
+      <workItem from="1696951421300" duration="1913000" />
+      <workItem from="1696997831843" duration="1389000" />
+      <workItem from="1697112816407" duration="121000" />
+      <workItem from="1697201157583" duration="1914000" />
+      <workItem from="1697207587234" duration="6814000" />
+      <workItem from="1697618312725" duration="644000" />
+      <workItem from="1700616523004" duration="480000" />
+      <workItem from="1700617055396" duration="319000" />
+      <workItem from="1700617650650" duration="398000" />
+      <workItem from="1700618249056" duration="153000" />
+      <workItem from="1700836679640" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="My_Freertos_Template" targetName="My_Freertos_Template.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89098f69-6bb9-47cc-b93b-46ac220329c0" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;3CC3&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;3CC3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="221a4ca4-b248-4b86-880e-433d5a05aac4" />
+        <option name="url" value="git@github.com:3CC3/C_Project_C.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2VsYOY7BSZCaO7qU3uK3PWtGqPr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86159/CLionProjects/ConvalescentApparatus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CLionExternalConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86159\CLionProjects\My_Freertos_Template\User\Inc" />
+      <recent name="C:\Users\86159\CLionProjects\My_Freertos_Template\User\Src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="My_Freertos_Template.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_Freertos_Template" TARGET_NAME="My_Freertos_Template.elf" version="1" RUN_TARGET_PROJECT_NAME="My_Freertos_Template" RUN_TARGET_NAME="My_Freertos_Template.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Temperature_Trolley" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="89098f69-6bb9-47cc-b93b-46ac220329c0" name="更改" comment="" />
+      <created>1695626223725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695626223725</updated>
+      <workItem from="1695626232551" duration="6114000" />
+      <workItem from="1695721952080" duration="129000" />
+      <workItem from="1695722092839" duration="102000" />
+      <workItem from="1695722204544" duration="874000" />
+      <workItem from="1695723092198" duration="57000" />
+      <workItem from="1695723150923" duration="95000" />
+      <workItem from="1695723248082" duration="1013000" />
+      <workItem from="1695724330483" duration="11000" />
+      <workItem from="1697618717317" duration="184000" />
+      <workItem from="1697619256098" duration="14000" />
+      <workItem from="1697621842334" duration="2517000" />
+      <workItem from="1697807411775" duration="722000" />
+      <workItem from="1697808457821" duration="7601000" />
+      <workItem from="1698025148737" duration="1748000" />
+      <workItem from="1698036139526" duration="1868000" />
+      <workItem from="1698043249002" duration="4642000" />
+      <workItem from="1698110042874" duration="2471000" />
+      <workItem from="1698138730525" duration="1141000" />
+      <workItem from="1698590188277" duration="46000" />
+      <workItem from="1698629381242" duration="13000" />
+      <workItem from="1698629965964" duration="86000" />
+      <workItem from="1698934895637" duration="2097000" />
+      <workItem from="1698997886515" duration="4875000" />
+      <workItem from="1699080536700" duration="73000" />
+      <workItem from="1700294368404" duration="12945000" />
+      <workItem from="1700355499746" duration="10623000" />
+      <workItem from="1700392805515" duration="2907000" />
+      <workItem from="1700464183551" duration="3572000" />
+      <workItem from="1700527012565" duration="2541000" />
+      <workItem from="1700616170006" duration="170000" />
+      <workItem from="1701010509772" duration="711000" />
+      <workItem from="1709033134068" duration="2411000" />
+      <workItem from="1709133033192" duration="541000" />
+      <workItem from="1709167456635" duration="34000" />
+      <workItem from="1709168843888" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

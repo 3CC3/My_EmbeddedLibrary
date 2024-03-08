@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Balance_Car_NORTOS" targetName="Balance_Car_NORTOS.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="856ab727-9a1d-4bc5-a4ba-f35583948150" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/A_UserDownload/Clion2Cubemx_Tool/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h" root0="SKIP_INSPECTION" />
+    <setting file="file://D:/A_UserDownload/Clion2Cubemx_Tool/gcc-arm-none-eabi-10.3-2021.10-win32/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/string.h" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2XkxfiohznIVME3lrqcEtWXPMWo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86159/CLionProjects/Balance_Car_NORTOS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.Balance_Car_NORTOS.elf">
+    <configuration name="Balance_Car_NORTOS.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Balance_Car_NORTOS" TARGET_NAME="Balance_Car_NORTOS.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Balance_Car_NORTOS" RUN_TARGET_NAME="Balance_Car_NORTOS.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Balance_Car_NORTOS.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Balance_Car_NORTOS" TARGET_NAME="Balance_Car_NORTOS.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="Balance_Car_NORTOS" RUN_TARGET_NAME="Balance_Car_NORTOS.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.Balance_Car_NORTOS.elf" />
+      <item itemvalue="OpenOCD 下载并运行.Balance_Car_NORTOS.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="856ab727-9a1d-4bc5-a4ba-f35583948150" name="更改" comment="" />
+      <created>1699186983861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699186983861</updated>
+      <workItem from="1699187007257" duration="8529000" />
+      <workItem from="1699244380299" duration="149000" />
+      <workItem from="1699244540589" duration="258000" />
+      <workItem from="1699244826478" duration="2155000" />
+      <workItem from="1699252929211" duration="6622000" />
+      <workItem from="1699357292373" duration="7494000" />
+      <workItem from="1699407342462" duration="9000" />
+      <workItem from="1699407363432" duration="21000" />
+      <workItem from="1699432167870" duration="3807000" />
+      <workItem from="1699492235772" duration="604000" />
+      <workItem from="1699522196140" duration="10046000" />
+      <workItem from="1699542706739" duration="3836000" />
+      <workItem from="1699675239647" duration="3805000" />
+      <workItem from="1699710302749" duration="1977000" />
+      <workItem from="1699799123337" duration="232000" />
+      <workItem from="1700058365534" duration="1270000" />
+      <workItem from="1700195504737" duration="71000" />
+      <workItem from="1700225091632" duration="24000" />
+      <workItem from="1700226162258" duration="476000" />
+      <workItem from="1705723226510" duration="550000" />
+      <workItem from="1709130872220" duration="2007000" />
+      <workItem from="1709300165221" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

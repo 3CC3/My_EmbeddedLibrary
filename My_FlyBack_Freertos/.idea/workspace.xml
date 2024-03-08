@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="My_FlyBack_Freertos" targetName="My_FlyBack_Freertos.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10fe454b-8b38-44c5-a828-acc10db25ae3" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2VWHr8pi0SFiPFJaklKEkT3dmiK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/86159/CLionProjects/A_My_PureTemplate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "CLionExternalConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.My_FlyBack_Freertos.elf">
+    <configuration name="My_FlyBack_Freertos.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack_Freertos" TARGET_NAME="My_FlyBack_Freertos.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="My_FlyBack_Freertos" RUN_TARGET_NAME="My_FlyBack_Freertos.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_FlyBack_Freertos.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack_Freertos" TARGET_NAME="My_FlyBack_Freertos.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="My_FlyBack_Freertos" RUN_TARGET_NAME="My_FlyBack_Freertos.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.My_FlyBack_Freertos.elf" />
+      <item itemvalue="OpenOCD 下载并运行.My_FlyBack_Freertos.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="10fe454b-8b38-44c5-a828-acc10db25ae3" name="更改" comment="" />
+      <created>1694945111356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694945111356</updated>
+      <workItem from="1694945137649" duration="2680000" />
+      <workItem from="1695018855192" duration="87000" />
+      <workItem from="1695018974346" duration="21000" />
+      <workItem from="1695019018048" duration="4558000" />
+      <workItem from="1695023869450" duration="16000" />
+      <workItem from="1695023907850" duration="25000" />
+      <workItem from="1695048806963" duration="3465000" />
+      <workItem from="1695102983417" duration="5842000" />
+      <workItem from="1695115689060" duration="1366000" />
+      <workItem from="1695210527295" duration="7000" />
+      <workItem from="1695542130565" duration="1920000" />
+      <workItem from="1695791963103" duration="26000" />
+      <workItem from="1705501959888" duration="2159000" />
+      <workItem from="1705676677526" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

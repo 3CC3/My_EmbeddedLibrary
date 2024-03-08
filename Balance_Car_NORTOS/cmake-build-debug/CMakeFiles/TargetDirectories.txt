@@ -1,0 +1,3 @@
+C:/Users/86159/CLionProjects/Balance_Car_NORTOS/cmake-build-debug/CMakeFiles/Balance_Car_NORTOS.elf.dir
+C:/Users/86159/CLionProjects/Balance_Car_NORTOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86159/CLionProjects/Balance_Car_NORTOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

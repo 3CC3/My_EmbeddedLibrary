@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="My_Freertos_Template" targetName="My_Freertos_Template.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89098f69-6bb9-47cc-b93b-46ac220329c0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Inc/retarget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Src/retarget.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_FlyBack/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-437094a5d9fac32dd011.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-06T09-48-39-0236.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/target-Clion2Mx_1.elf-Debug-e2d095adeb67c80f3030.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2VsYOY7BSZCaO7qU3uK3PWtGqPr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86159/CLionProjects/My_RC522&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CLionExternalConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86159\CLionProjects\My_Freertos_Template\User\Inc" />
+      <recent name="C:\Users\86159\CLionProjects\My_Freertos_Template\User\Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.My_RC522.elf">
+    <configuration name="My_RC522" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_Freertos_Template" TARGET_NAME="My_Freertos_Template.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="My_Freertos_Template" RUN_TARGET_NAME="My_Freertos_Template.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_RC522.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_Freertos_Template" TARGET_NAME="My_Freertos_Template.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="My_Freertos_Template" RUN_TARGET_NAME="My_Freertos_Template.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.My_RC522" />
+      <item itemvalue="OpenOCD 下载并运行.My_RC522.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="89098f69-6bb9-47cc-b93b-46ac220329c0" name="更改" comment="" />
+      <created>1695626223725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695626223725</updated>
+      <workItem from="1695626232551" duration="6114000" />
+      <workItem from="1695721952080" duration="129000" />
+      <workItem from="1695722092839" duration="102000" />
+      <workItem from="1695722204544" duration="874000" />
+      <workItem from="1695723092198" duration="57000" />
+      <workItem from="1695723150923" duration="95000" />
+      <workItem from="1695723248082" duration="1013000" />
+      <workItem from="1695724343036" duration="58000" />
+      <workItem from="1695724403130" duration="11560000" />
+      <workItem from="1695791565104" duration="7332000" />
+      <workItem from="1695962007234" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
