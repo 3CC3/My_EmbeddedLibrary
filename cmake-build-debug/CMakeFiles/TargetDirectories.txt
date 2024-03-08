@@ -1,3 +1,0 @@
-C:/Users/86159/CLionProjects/Dual_BlueTooth_Connection/cmake-build-debug/CMakeFiles/Dual_BlueTooth_Connection.elf.dir
-C:/Users/86159/CLionProjects/Dual_BlueTooth_Connection/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/86159/CLionProjects/Dual_BlueTooth_Connection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
