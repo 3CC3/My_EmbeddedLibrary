@@ -118,7 +118,7 @@ int main(void)
     Set_MotorCCR(1,0);
     Set_MotorCCR(2,0);
     OLED_Clear();
-    OLED_ShowChar(4,1,'A');
+    OLED_ShowChar(4,1,'C');
   /* USER CODE END 2 */
 
   /* Infinite loop */

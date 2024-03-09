@@ -21,172 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af9d089e-06b2-49ce-a197-9871ced45572" name="更改" comment="test_1">
-      <change afterPath="$PROJECT_DIR$/../A_My_PureTemplate/.idea/Temperature_Trolley.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/.idea/My_Freertos_Template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/Delay.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/Encoder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/MPU6050.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/MPU6050_Reg.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/Motor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/My_I2C.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/dmpKey.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/dmpmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/inv_mpu.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Inc/inv_mpu_dmp_motion_driver.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/Delay.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/Encoder.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/MPU6050.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/Motor.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/My_I2C.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/inv_mpu.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/User/Src/inv_mpu_dmp_motion_driver.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/cache-v2-86eb0b3340d9311262f0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d9846574eb521c6c460c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b9b9551f4c054e2b8982.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-04T14-01-50-0183.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/target-My_Freertos_Template.elf-Debug-7cc734db7b82555768f4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e2c4ca7f6f487ea0d69e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeASMCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/freertos.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/gpio.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/main.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/stm32f1xx_hal_timebase_tim.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/syscalls.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/system_stm32f1xx.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/Delay.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/Encoder.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/MPU6050.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/Motor.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/My_I2C.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/OLED.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/RC522.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/inv_mpu.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/inv_mpu_dmp_motion_driver.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/User/Src/retarget.c.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/My_Freertos_Template.elf.dir/startup/startup_stm32f103xb.s.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Balance_Car/cmake-build-debug/My_Freertos_Template.elf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Brushless_Electric_Motor/.idea/My_Freertos_Template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Car_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/Delay.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/MPU6050.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/MPU6050_Reg.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/Motor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/MyI2C.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/OLED.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/OLED_Font.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/dmpKey.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/dmpmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/inv_mpu.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/inv_mpu_dmp_motion_driver.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Inc/retarget.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/Delay.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/MPU6050.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/Motor.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/MyI2C.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/OLED.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/inv_mpu.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/inv_mpu_dmp_motion_driver.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/retarget.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F1xx/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/CMSIS/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Convalescent/.idea/Temperature_Trolley.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Free_Rtos_1/.idea/Free_Rtos_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_Clion2Mx/.idea/My_Clion2Mx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_FlyBack/.idea/My_FlyBack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Inc/retarget.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_FlyBack/User/Src/retarget.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_FlyBack/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_FlyBack_Freertos/.idea/My_FlyBack_Freertos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_Freertos_Template/.idea/My_Freertos_Template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_RC522/.idea/My_Freertos_Template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_Step_Motor/.idea/My_Freertos_Template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Temperature_Trolley - Change/.idea/Temperature_Trolley.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Temperature_Trolley - UART/.idea/Temperature_Trolley.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/.cproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car_1.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/Car_1.ioc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/syscalls.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/syscalls.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/tim.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/tim.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/usart.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/usart.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a83cb121e1f6792f2d45.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-08T13-54-55-0381.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Car_1.elf-Debug-3dfbc475e7f42e7b871f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/gpio.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/gpio.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/syscalls.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Car_1.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Car_1.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Car_1.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Car_1.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Car_1.elf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Car_1.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Car_1.hex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Car_1.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Car_1.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-437094a5d9fac32dd011.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-06T09-48-39-0236.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clion2Mx_1/cmake-build-debug/.cmake/api/v1/reply/target-Clion2Mx_1.elf-Debug-e2d095adeb67c80f3030.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Brushless_Electric_Motor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Brushless_Electric_Motor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvalescentApparatus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvalescentApparatus/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +34,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectApplicationVersion">
@@ -285,6 +121,7 @@
       <workItem from="1695048641858" duration="764000" />
       <workItem from="1699085599384" duration="3682000" />
       <workItem from="1699166777014" duration="52000" />
+      <workItem from="1709996306777" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1686233004963</created>
