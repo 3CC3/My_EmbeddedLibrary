@@ -1,2 +1,2 @@
 # My_EmbeddedLibrary
-嵌入式开发项目
+个人的嵌入式开发项目
