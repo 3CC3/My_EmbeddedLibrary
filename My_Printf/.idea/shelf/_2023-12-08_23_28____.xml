@@ -1,0 +1,24 @@
+<changelist name="在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]" date="1702049280834" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行更新之前于 2023-12-08 23:28 取消提交了更改 [更改]" />
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/.ninja_deps" />
+    <option name="AFTER_PATH" value="cmake-build-debug/.ninja_deps" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]/.ninja_deps" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]/main.c.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/My_FlyBack.elf" />
+    <option name="AFTER_PATH" value="cmake-build-debug/My_FlyBack.elf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]/My_FlyBack.elf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/My_FlyBack.bin" />
+    <option name="AFTER_PATH" value="cmake-build-debug/My_FlyBack.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-12-08_23_28_取消提交了更改_[更改]/My_FlyBack.bin" />
+  </binary>
+</changelist>
