@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="My_FlyBack" targetName="My_FlyBack.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba2e2f59-f732-45d5-9f7d-6179aab7e05a" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists_template.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/gpio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/gpio.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/tim.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/tim.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_FlyBack.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/My_FlyBack.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Inc/OLED.h" beforeDir="false" afterPath="$PROJECT_DIR$/User/Inc/OLED.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Inc/Uart_RxPackage.h" beforeDir="false" afterPath="$PROJECT_DIR$/User/Inc/Uart_RxPackage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Src/OLED.c" beforeDir="false" afterPath="$PROJECT_DIR$/User/Src/OLED.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Src/Uart_RxPackgae.c" beforeDir="false" afterPath="$PROJECT_DIR$/User/Src/Uart_RxPackgae.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c1f9aace78f561ce14ce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-296e515dbae36fda07b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-88c092159f5882841563.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-24T05-07-47-0686.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-My_FlyBack.elf-Debug-fed1a11a4973574f7538.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/dma.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/dma.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/gpio.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/gpio.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/spi.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/syscalls.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/syscalls.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/system_stm32f1xx.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/system_stm32f1xx.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/MFRC522.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/MFRC522.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Motor.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Motor.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/OLED.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/OLED.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/retarget.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/retarget.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/startup/startup_stm32f103xb.s.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/startup/startup_stm32f103xb.s.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Inc/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/My_printf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Inc/Uart_RxPackage.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/My_printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/User/Src/Uart_RxPackgae.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/Core/Src/usart.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/My_printf.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/CMakeFiles/My_FlyBack.elf.dir/User/Src/Uart_RxPackgae.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Printf/cmake-build-debug/My_FlyBack.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2VVtX5p1pRHRLUGBVuc3Ov4chFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/86159/CLionProjects/LED_Ribbon - Freertos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "CLionExternalConfigurable",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.My_FlyBack.elf">
+    <configuration name="未命名" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_FlyBack.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack" TARGET_NAME="My_FlyBack.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="My_FlyBack" RUN_TARGET_NAME="My_FlyBack.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_FlyBack.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="My_FlyBack" TARGET_NAME="My_FlyBack.elf" version="1" RUN_PATH="$PROJECT_DIR$/cmake-build-debug/My_FlyBack.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\86159\CLionProjects\stm32f103c8_blue_pill.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.未命名" />
+      <item itemvalue="CMake 应用程序.My_FlyBack.elf" />
+      <item itemvalue="OpenOCD 下载并运行.My_FlyBack.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ba2e2f59-f732-45d5-9f7d-6179aab7e05a" name="更改" comment="" />
+      <created>1694933112619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694933112619</updated>
+      <workItem from="1694933146757" duration="10887000" />
+      <workItem from="1694946480239" duration="1475000" />
+      <workItem from="1695018862215" duration="83000" />
+      <workItem from="1695018955869" duration="42000" />
+      <workItem from="1695019011943" duration="2742000" />
+      <workItem from="1695023848454" duration="40000" />
+      <workItem from="1695023898683" duration="868000" />
+      <workItem from="1695051438331" duration="1306000" />
+      <workItem from="1695104586766" duration="2478000" />
+      <workItem from="1695109920775" duration="8333000" />
+      <workItem from="1695198964806" duration="648000" />
+      <workItem from="1695202056526" duration="1392000" />
+      <workItem from="1695210309634" duration="1076000" />
+      <workItem from="1695384698640" duration="3450000" />
+      <workItem from="1695541960245" duration="2089000" />
+      <workItem from="1695625538249" duration="197000" />
+      <workItem from="1695722140626" duration="13000" />
+      <workItem from="1695722518531" duration="94000" />
+      <workItem from="1695791991140" duration="3253000" />
+      <workItem from="1695813533593" duration="10507000" />
+      <workItem from="1695962025369" duration="599000" />
+      <workItem from="1696037296375" duration="116000" />
+      <workItem from="1696037483351" duration="17867000" />
+      <workItem from="1696126901012" duration="1000" />
+      <workItem from="1696473882111" duration="1419000" />
+      <workItem from="1696508927385" duration="1258000" />
+      <workItem from="1696561667355" duration="12496000" />
+      <workItem from="1696765753053" duration="4111000" />
+      <workItem from="1696855775435" duration="2185000" />
+      <workItem from="1696948767887" duration="1731000" />
+      <workItem from="1696951421300" duration="1913000" />
+      <workItem from="1696997831843" duration="1389000" />
+      <workItem from="1697112816407" duration="121000" />
+      <workItem from="1697201157583" duration="1914000" />
+      <workItem from="1697207587234" duration="6814000" />
+      <workItem from="1697618312725" duration="644000" />
+      <workItem from="1697619594229" duration="2201000" />
+      <workItem from="1697621829054" duration="12000" />
+      <workItem from="1697621848739" duration="748000" />
+      <workItem from="1698046466549" duration="2276000" />
+      <workItem from="1698110176317" duration="6644000" />
+      <workItem from="1698123911523" duration="198000" />
+      <workItem from="1700360465784" duration="4085000" />
+      <workItem from="1700747539522" duration="21000" />
+      <workItem from="1701308958318" duration="1256000" />
+      <workItem from="1701673222026" duration="144000" />
+      <workItem from="1705197823155" duration="5000" />
+      <workItem from="1705676743580" duration="1182000" />
+      <workItem from="1705678172126" duration="3065000" />
+      <workItem from="1705718083826" duration="9076000" />
+      <workItem from="1705821632213" duration="9849000" />
+      <workItem from="1705887416961" duration="6533000" />
+      <workItem from="1705931877456" duration="140000" />
+      <workItem from="1705975743022" duration="5974000" />
+      <workItem from="1705997210297" duration="14457000" />
+      <workItem from="1706061707108" duration="23423000" />
+      <workItem from="1706150096567" duration="17452000" />
+      <workItem from="1706233165369" duration="25699000" />
+      <workItem from="1706402361805" duration="1405000" />
+      <workItem from="1706432549998" duration="1094000" />
+      <workItem from="1706433713831" duration="31000" />
+      <workItem from="1707408952576" duration="268000" />
+      <workItem from="1707441038696" duration="5757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
