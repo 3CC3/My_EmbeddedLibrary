@@ -1,0 +1,3 @@
+C:/Users/86159/CLionProjects/Car_1/cmake-build-debug/CMakeFiles/Car_1.elf.dir
+C:/Users/86159/CLionProjects/Car_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86159/CLionProjects/Car_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
